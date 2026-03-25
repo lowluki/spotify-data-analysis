@@ -16,6 +16,12 @@ The goal of this project is to analyze Spotify song data and identify factors th
 * Jupyter Notebook
 * github Copilot
 
+## Project Structure
+
+- `data/` – dataset  
+- `notebooks/` – analysis notebook  
+- `images/` – visualizations and dashboard  
+
 ## Analysis Steps
 
 1. Data loading and preprocessing
