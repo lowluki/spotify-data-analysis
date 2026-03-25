@@ -54,6 +54,12 @@ Most songs fall within the 2.5–4 minute range.
 
 Popularity is likely influenced by factors not included in the dataset (e.g. marketing, artist recognition, trends).
 
+## Dashboard
+
+![Spotify Dashboard](spotify_dashboard.png)
+
+*Figure: Comprehensive dashboard analyzing Spotify song features and popularity*
+
 ## Conclusion
 
 Song popularity cannot be explained solely by audio features. External factors play a significant role in determining a song’s success.
@@ -61,7 +67,3 @@ Song popularity cannot be explained solely by audio features. External factors p
 ## Output
 
 The project generates a complete Spotify analysis dashboard with multiple visualizations and summary statistics.
-
-![Spotify Dashboard](spotify_dashboard.png)
-
-*Figure: Comprehensive dashboard analyzing Spotify song features and popularity*
