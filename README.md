@@ -62,7 +62,7 @@ Popularity is likely influenced by factors not included in the dataset (e.g. mar
 
 ## Dashboard
 
-![Spotify Dashboard](spotify_dashboard.png)
+![Spotify Dashboard](images/spotify_dashboard.png)
 
 *Figure: Comprehensive dashboard analyzing Spotify song features and popularity*
 
